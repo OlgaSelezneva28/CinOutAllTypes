@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\CinCoutType\CinCoutType\bin\Debug\CinCoutType.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\CinCoutType\CinCoutType\bin\Debug\CinCoutType.exe
+c:\users\acer\documents\visual studio 2012\Projects\CinCoutType\CinCoutType\bin\Debug\CinCoutType.pdb
+c:\users\acer\documents\visual studio 2012\Projects\CinCoutType\CinCoutType\obj\Debug\CinCoutType.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\CinCoutType\CinCoutType\obj\Debug\CinCoutType.exe
+c:\users\acer\documents\visual studio 2012\Projects\CinCoutType\CinCoutType\obj\Debug\CinCoutType.pdb
